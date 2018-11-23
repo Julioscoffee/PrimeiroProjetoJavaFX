@@ -25,7 +25,7 @@ public class HelloWorldJavaFX extends Application {
         //Personagem
         Rectangle ceu = new Rectangle(900, 450, Color.LIGHTSKYBLUE);
         Rectangle mar = new Rectangle(900, 450, Color.DARKBLUE);
-        Circle sol = new Circle(90, Color.ORANGE);
+        Circle sol = new Circle(130, Color.ORANGE);
         
         //Posicionamento
         ceu.setTranslateY(-200);
